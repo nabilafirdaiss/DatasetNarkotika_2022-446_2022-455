@@ -1,4 +1,4 @@
-# ⚖️ Dataset-Narkotika_2022-446_<2022_455> 
+# ⚖️ Narkotika_2022-446_2022_455
 ### Indonesian Court Decisions Dataset for Information Retrieval (TKI)
 
 
