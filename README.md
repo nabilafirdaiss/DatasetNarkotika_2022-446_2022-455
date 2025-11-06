@@ -5,12 +5,12 @@
 ## 📌 Deskripsi Proyek
 Dataset ini dibuat sebagai bagian dari Penugasan Ujian Tengah Semester (UTS) mata kuliah Temu Kembali Informasi (TKI) Semester Ganjil 2025/2026. Dataset ini didedikasikan untuk eksplorasi dan studi kasus dalam domain TKI, khususnya pada konteks dokumen hukum.
 
-Kami menghadirkan **50 dokumen Putusan Pengadilan** yang telah diakuisisi, dikurasi, dan diolah, berfokus pada kasus Narkotika dan Psikotropika. Dataset ini siap digunakan untuk tahap *preprocessing* dan *indexing* dalam Tugas 3, serta potensi pengembangan model pencarian hukum (Legal Information Retrieval System) di masa mendatang.
+Kami menghadirkan **50 dokumen Putusan Pengadilan** yang telah diakuisisi, dikurasi, dan diolah, berfokus pada kasus Narkotika dan Psikotropika. Dataset ini siap digunakan untuk tahap *preprocessing* dan *indexing* yang bersumber dari `https://putusan3.mahkamahagung.go.id/direktori.html`
 
 
-| Kriteria | Detail Pilihan Kelompok | Sumber Referensi |
-| :--- | :--- | :--- |
-| **Sumber Data** | Direktori Putusan Mahkamah Agung RI | `https://putusan3.mahkamahagung.go.id/direktori.html` |
+| Kriteria | Detail Pilihan Kelompok | 
+| :--- | :--- | 
+| **Sumber Data** | Direktori Putusan Mahkamah Agung RI |
 | **Jumlah Dokumen** | 50 Putusan |  
 | **Direktori Utama** | PIDANA KHUSUS | 
 | **Klasifikasi Kasus** | NARKOTIKA DAN PSIKOTROPIKA | 
