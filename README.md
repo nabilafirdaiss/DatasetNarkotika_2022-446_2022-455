@@ -12,7 +12,7 @@ Kami menghadirkan **50 dokumen Putusan Pengadilan** yang telah diakuisisi, dikur
 | :--- | :--- | :--- |
 | **Sumber Data** | Direktori Putusan Mahkamah Agung RI | `https://putusan3.mahkamahagung.go.id/direktori.html` |
 | **Jumlah Dokumen** | 50 Putusan |  
-| **Direktori Utama** | | PIDANA KHUSUS | 
+| **Direktori Utama** | PIDANA KHUSUS | 
 | **Klasifikasi Kasus** | NARKOTIKA DAN PSIKOTROPIKA | 
 | **Pengadilan Negeri** | **PN.Banda Aceh** | 
 | **Rentang Tahun Putusan** | **2023 – 2025** |
